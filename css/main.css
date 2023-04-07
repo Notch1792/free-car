@@ -38,6 +38,9 @@ body {
     border-radius: 30px;
     background-color: rgb(165, 215, 232);
 }
+.button:hover {
+    cursor: pointer;
+}
 
 .card {
     position: absolute;
