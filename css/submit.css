@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(18, 18, 18);
+    padding: 300px;
+    text-align: center;
+    
+}
+.loading__ {
+    filter: invert(100%) sepia(38%) saturate(496%) hue-rotate(180deg) brightness(108%) contrast(74%);
+}
+.img {
+    width: 100px;
+}
+.text {
+    font-size: 50px;
+}
